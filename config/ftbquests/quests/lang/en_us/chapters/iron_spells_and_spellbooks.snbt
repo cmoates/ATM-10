@@ -146,7 +146,7 @@
 	]
 	quest.489833A2A6C39151.title: "&bCryomancecr Outfit"
 	quest.48C68664319B0294.quest_desc: ["To obtain this special Spell Book you'll need to slay the &4&lDead King&r! \\n\\nIt has 10 &3Spell&r Slots but 4 are taken up already. &4Blood Slash&r, &4Blood Step&r, &4Ray of Siphoning&r, and &4Blaze Storm&r come on it already and can't be taken off."]
-	quest.48C68664319B0294.title: "Necronomicom"
+	quest.48C68664319B0294.title: "Necronomicon"
 	quest.4CCA1E2AAA9AB9D9.quest_desc: [
 		"When's this one going to come to the Mod?"
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_electromancer.png width:50 height:100 align:center}"
@@ -272,3 +272,4 @@
 	task.6D7DD99A02A8F451.title: "Visit The Deep Dark"
 	task.76B722B1AE7B6CF2.title: "AllRightsReserved"
 }
+
